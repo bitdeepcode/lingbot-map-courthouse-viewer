@@ -6,4 +6,6 @@ A color point cloud reconstructed from 16 publicly available courthouse frames i
 - Points: 974,669
 - Model file: `scene.glb` (glTF 2.0)
 
+[Open the point cloud in an online viewer](https://gltf-viewer.donmccurdy.com/#model=https%3A%2F%2Fraw.githubusercontent.com%2Fbitdeepcode%2Flingbot-map-courthouse-viewer%2Fmain%2Fscene.glb)
+
 The scene contains visible streaks and noise because it uses only a short sequence. It is a point cloud, not a watertight mesh.
